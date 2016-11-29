@@ -28,7 +28,7 @@ script:
 Cucumber will find automatically the project, but if you have problems you can help him with:
 
 ```
-- XCODEPROJ="fendixMR.xcodeproj" bundle exec cucumber
+- XCODEPROJ="myProject.xcodeproj" bundle exec cucumber
 ```
 
 The only thing we have to take into consideration with travis and match is the password:
